@@ -10,4 +10,3 @@ st.title("📊Dashboard Musica y Salud Mental")
 st.markdown("Proyecto de Analisis de Datos - Musica y Salud Mental")
 
 st.info("Usa el menu lateral para navegar")
-
